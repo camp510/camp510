@@ -5,7 +5,7 @@
         <h4><strong>{{ site.owner }}</strong>
         </h4>
         <p>
-          {% for address in site.address %}
+          {% for address in site.address2 %}
           {{ address.line }}<br>
           {% endfor %}
         </p>
@@ -21,9 +21,6 @@
           </li>
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
-          </li>
-          <li>
-            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-fw fa-3x"></i></a>
           </li>
         </ul>
         <hr class="small">
