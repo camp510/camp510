@@ -167,8 +167,8 @@ hr.small {
     -o-background-size: cover;
 }
 .logo {
-    background-color: #FFCA41;
-    opacity: 0.78
+    background-color: rgba(255,202,65,.64);
+    padding: 12px;
 }
 
 /* About */

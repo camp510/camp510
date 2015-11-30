@@ -166,8 +166,8 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
-.logo-bg {
-    background-color: rgba(255,202,65,0.8);
+.logo {
+    background-color: rgba(255,202,65,.64);
     padding: 12px;
 }
 
@@ -262,7 +262,7 @@ footer {
 
 /* paragraph font */
 .portfolio-item p {
-    font-size: 16px;
+    font-size: 20px;
     font-family: "Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif";
     text-align: justify;
     text-justify: inter-word;
