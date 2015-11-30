@@ -190,6 +190,11 @@ hr.small {
 .h2 {
     color:#392F78;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
 /* Callout */
 
 .callout {
