@@ -1,40 +1,22 @@
-<section id="photos" class="portfolio">
+<section id="start-camp" class="portfolio">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-lg-offset-1 text-center h2">
-        <h2>Photos</h2>
+        <h1>Start Camp</h1>
         <hr class="small">
         <div class="row">
           <div class="col-md-6">
             <div class="portfolio-item h2">
-              <a href="#">
-                <h3>2015 Photos</h3>
-                <img class="img-portfolio img-responsive" src="img/two_girls.jpg">
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="portfolio-item">
-              <a href="#">
-                <h3>2015 Vidoes</h3>
-                <img class="img-portfolio img-responsive" src="img/upside_down.jpg">
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="portfolio-item">
-              <a href="#">
-                <h3>2014 Highlights</h3>
-                <img class="img-portfolio img-responsive" src="img/two_girls.jpg">
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="portfolio-item">
-              <a href="#">
-                <h3>Week 9 (Aug 11-14, 2014)</h3>
-                <img class="img-portfolio img-responsive" src="img/upside_down.jpg">
-              </a>
+              <ul>
+                {% for  post in site.categories.start_camp %}
+                  <li>
+                    <a href="{{ start_camp.url }}"><h3>{{ start_camp.title }}</h3>
+                    <img class="img-portfolio img-responsive" src="{{ start_camp.image }}">
+                    </a>
+                    {{ start_camp.excerpt }}
+                  </li>
+                {% endfor %}                
+              </ul>
             </div>
           </div>
         </div>
