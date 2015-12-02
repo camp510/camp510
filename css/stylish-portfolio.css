@@ -29,6 +29,23 @@ body {
     font-weight: 700;
 }
 
+.h2-header {
+    color: #392F78;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
 /* Custom Button Styles */
 
 .reg:hover {
@@ -271,8 +288,8 @@ footer {
 
 /* paragraph font */
 .portfolio-item p {
-    font-size: 20px;
-    font-family: "Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif";
+    font-size: 16px;
+    font-family: "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
     text-align: justify;
     text-justify: inter-word;
 }
