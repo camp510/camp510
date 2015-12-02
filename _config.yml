@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   CAMP 510 campers explore, practice and work with real tools and techniques. In this environment, they are invited to solve problems creatively; to try and fail and try again; to work on their own, as well as collaboratively; to share their creative vision; and be a part of the community.
   Through all this making and creating, campers build creative confidence, resilience, and a deep sense of their own power to influence their environment…and they have FUN too!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "camp510.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # User setting
 owner: Camp 510
