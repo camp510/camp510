@@ -286,6 +286,11 @@ footer {
     padding: 100px 0;
 }
 
+/* posts */
+.post {
+    margin-top: 12px;
+}
+
 /* paragraph font */
 .portfolio-item p {
     font-size: 16px;
