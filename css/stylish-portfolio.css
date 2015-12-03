@@ -37,9 +37,9 @@ ul {
     padding: 0;
 }
 
-li {
+.li-none {
     list-style-type: none;
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Populaire,"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .center {
@@ -297,6 +297,19 @@ footer {
     font-family: "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
     text-align: justify;
     text-justify: inter-word;
+}
+
+.rate-item {
+    font-size: 16px;
+    font-family: "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
+    text-align: justify;
+    margin-left: 50px;
+}
+
+/* table in rates */
+td{
+    border: 1px solid black;
+    padding: 4px;
 }
 
 /* font */
