@@ -51,6 +51,10 @@ ul {
     text-align: center;
 }
 
+.single {
+    padding: 12px;
+}
+
 /* Custom Button Styles */
 
 .reg:hover {
@@ -308,7 +312,7 @@ footer {
     font-size: 16px;
     font-family: "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
     text-align: justify;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 /* table in rates */
