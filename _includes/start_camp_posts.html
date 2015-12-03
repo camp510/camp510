@@ -3,6 +3,7 @@
     <div class="row">
           <div class="col-md-12">
             <div class="portfolio-item h2 center text">
+              <h1 class="h1-bg">{{ page.title }}</h1>
               <ul>
               <!--
                 {% for post in site.posts %}
@@ -16,7 +17,7 @@
                     {% endif %}
                 {% endfor %}
                 -->
-                {% for post in site.categories.start_camp%}
+                {% for post in site.categories.start_camp %}
                   <li class="li-style">
                     <img class="img-responsive center-block post" src="{{ post.image }}">
                     <div class="post"><a href="{{ post.url }}">{{ post.title }}</a></div>
