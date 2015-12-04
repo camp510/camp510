@@ -1,0 +1,20 @@
+<section id="photo" class="single">
+  <div class="container">
+    <div class="row">
+          <div class="col-md-12">
+            <div class="portfolio-item h2 center text">
+              <h1 class="h1-bg">{{ page.title }}</h1>
+              {% for url in page.iframe_urls %}
+                <div>
+                  <iframe src="{{ url }}" height="384" width="auto" frameborder="0" scrolling="no"></iframe>
+                </div>
+              {% endfor %}
+            </div>
+         </div>
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
