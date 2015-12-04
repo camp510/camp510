@@ -1,11 +1,23 @@
-<section id="start-camp" class="single">
+<section id="photo" class="single">
   <div class="container">
     <div class="row">
           <div class="col-md-12">
             <div class="portfolio-item h2 center text">
               <h1 class="h1-bg">{{ page.title }}</h1>
               <ul>
-                {% for post in site.categories.start %}
+              <!--
+                {% for post in site.posts %}
+                  {% if post.category == "start_camp" %}
+                    <li>
+                      <img class="img-responsive center-block" src="{{ post.image }}">
+                      <div class="post"><a href="{{ post.url }}">{{ post.title }}</a></div>
+                      <div class="post">{{ post.content | truncatewords:75 }}</div>
+                      <a href="{{ post.url }}" class="btn btn-dark">Read More</a>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+                -->
+                {% for post in site.categories.photos %}
                   <li class="li-none">
                     <img class="img-responsive center-block post" src="{{ post.image }}">
                     <div class="post"><a href="{{ post.url }}">{{ post.title }}</a></div>
