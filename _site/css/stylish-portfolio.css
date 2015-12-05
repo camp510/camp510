@@ -16,6 +16,10 @@ body {
     font-family: Populaire,"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.container {
+    max-width: 640px;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -216,10 +220,6 @@ hr.small {
 
 .service-item {
     margin-bottom: 30px;
-}
-
-.h2 {
-    color:#392F78;
 }
 
 .col-centered{
