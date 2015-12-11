@@ -312,6 +312,14 @@ footer {
     padding: 100px 0;
 }
 
+.footer-text-size {
+    font-size: 198x;
+    font-family: "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
+}
+
+strong {
+    font-family: Populaire, "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
+}
 /* posts */
 .post {
     margin-top: 12px;
