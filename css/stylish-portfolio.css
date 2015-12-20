@@ -64,6 +64,15 @@ ul {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.bg-primary-custom {
+    color: #fff;
+    background-color: #00B1B4;
+}
+
+.text-primary-custom {
+    color: #FFCA41;
+}
+
 /* Custom Button Styles */
 
 .reg:hover {
