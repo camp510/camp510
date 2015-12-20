@@ -236,6 +236,11 @@ hr.small {
     padding: 12px;
 }
 
+.logo-postition {
+    position: relative;
+    bottom: -240px;
+}
+
 /* About */
 
 .about {
