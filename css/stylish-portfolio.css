@@ -30,7 +30,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 5.5em;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .h1-bg {
@@ -238,7 +238,7 @@ hr.small {
 
 .logo-postition {
     position: relative;
-    bottom: -240px;
+    bottom: -100px;
 }
 
 /* About */
