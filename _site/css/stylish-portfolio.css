@@ -79,6 +79,10 @@ ul {
     color: #FFCA41;
 }
 
+.sans-font {
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 /* Custom Button Styles */
 
 .reg:hover {
