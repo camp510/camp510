@@ -8,7 +8,7 @@ category: counselor
 
 CAMP 510 is currently hiring high school and college students (18+*), artists & makers as Counselors for Summer 2016. 
 
-As a CAMP Counselor, you will be a superhero to our CAMPers! You’re a mentor, a magician, a cool(er) older sibling, a cheerleader, a first crush. You will inspire, encourage, support and lead. You will be adored and revered.
+As a CAMP Counselor, you will be a superhero to our CAMPers! You’re a mentor, a magician, a role model, a problem solver. You will inspire, encourage, support and lead. You will be adored and revered.
 
 Counselors work with CAMP 510 teachers, makers and artists to help supervise and assist CAMPers with their projects in the classrooms. You’ll support the staff in every aspect of daily operations: check-in, snack prep and service, cleaning up, administering first aid, and helping to resolve conflicts respectfully.
 
