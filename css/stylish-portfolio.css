@@ -14,6 +14,7 @@ body {
 
 body {
     font-family: Populaire,"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.2em;
 }
 
 .container {
@@ -244,6 +245,10 @@ hr.small {
 .logo {
     background-color: rgba(255,202,65,.82);
     padding: 12px;
+}
+
+.size {
+    font-size: 28px;
 }
 
 /* About */
