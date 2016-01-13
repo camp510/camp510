@@ -280,6 +280,10 @@ hr.small {
     margin: 0 auto;
 }
 
+.p_size {
+    font-size: 15px;
+}
+
 /* Callout */
 
 .callout {
