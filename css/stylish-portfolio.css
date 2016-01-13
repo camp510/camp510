@@ -16,6 +16,9 @@ body {
     font-family: Populaire,"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.source {
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 .container {
     max-width: 640px;
 }
