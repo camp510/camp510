@@ -1,0 +1,49 @@
+---
+layout: blog_full_layout
+title: Week 9 XP1 (August 15-19)&#58; Full STEAM Ahead (Arduino Motors & Movement)
+category: xp
+image: https://dl.dropboxusercontent.com/s/
+image2: https://dl.dropboxusercontent.com/s/
+---
+
+## Full STEAM Ahead
+
+Let's get this summer in motion with Arduino and plenty of action.  Experiment with Servo, Stepper, and DC motors in this exciting and final week of CAMP.  We'll learn the basics of motor control in the Arduino programming language and combine computer science with engineering.  As a bonus for this week, we get to experience a special Science Journal lesson from the Exploratorium and Google!  Celebrate your independence and creativity with what you can make with Arduino and your fellow engineers.
+
+
+In Partnership with Google and The Exploratorium, CAMP 510 has been invited to participate in the testing of some new STEAM curriculum.
+
+
+Furthering their Making & Science Initiative, Google has been developing the Science Journal App, in partnership with the educators and innovators of The Exploratorium. This spring, The Exploratorium has invited CAMP 510 to beta test new kits and content which will be released later this summer. Some of this content is already available, and we’ll be playing with that as well as the yet-to-be-released activities. 
+
+
+Science Journal will allow CAMPers to experiment and engage with the physical world using onboard sensors in an Android phone (e.g., accelerometers, microphones, etc), as well as compatible external sensors and Arduino micro-controllers. These activities (mostly for ages 10-14) will help CAMPers become familiar with using those sensors and interpreting graphs created in the app. At CAMP 510, we’ll be integrating these into our Extended Day afternoon clubs, as well.
+
+
+**_Teacher:_** Tenaya Hurst
+
+**_$450_**
+
+*XP CAMPS are open to CAMPers entering grades 5-8*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
