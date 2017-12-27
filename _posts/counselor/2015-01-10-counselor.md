@@ -4,9 +4,8 @@ title: Be a Counselor
 category: counselor
 ---
 
-CAMP 510 is hiring Counselors for Summer 2017.
+CAMP 510 will be hiring Counselors and Junior Counselors for Summer 2018 beginning in March. Please check back for applications in February.
   
-We are no longer accepting applications for Junior Counselors.
 
 Applications can be found here for <span style="font-weight: bold;">Counselors</span>:
 <br>
